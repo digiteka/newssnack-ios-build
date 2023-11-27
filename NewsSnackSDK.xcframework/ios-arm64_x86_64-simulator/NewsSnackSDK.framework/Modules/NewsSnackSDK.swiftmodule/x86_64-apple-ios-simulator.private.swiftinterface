@@ -1,0 +1,75 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NewsSnackSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import DeveloperToolsSupport
+import Foundation
+import Kingfisher
+import Network
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os
+@objc public class DTKNSUIConfig : ObjectiveC.NSObject {
+  public var forcedUserInterfaceStyle: UIKit.UIUserInterfaceStyle?
+  public var titleFont: UIKit.UIFont {
+    get
+  }
+  public var descriptionFont: UIKit.UIFont {
+    get
+  }
+  public var playImage: UIKit.UIImage
+  public var pauseImage: UIKit.UIImage
+  public var emptyStateImage: UIKit.UIImage
+  public var unlockLandscapeOrientationForPhone: Swift.Bool
+  public init(forcedUserInterfaceStyle: UIKit.UIUserInterfaceStyle? = nil, titleFont: UIKit.UIFont? = nil, descriptionFont: UIKit.UIFont? = nil, playImageName: Swift.String? = nil, pauseImageName: Swift.String? = nil, emptyStateImageName: Swift.String? = nil, unlockLandscapeOrientationForPhone: Swift.Bool = false)
+  @objc deinit
+}
+@objc public class DTKNSConfig : ObjectiveC.NSObject {
+  public var mdtk: Swift.String
+  public var debugMode: Swift.Bool
+  public init(mdtk: Swift.String, debugMode: Swift.Bool = false)
+  @objc deinit
+}
+public enum TrackingEvent {
+  case Open
+  case Close
+  case VideoStart(videoId: Swift.String, vuid: Swift.String, zone: Swift.String)
+  case VideoDuration(videoId: Swift.String, vuid: Swift.String, zone: Swift.String, duration: Swift.Int)
+  case VideoCompletion(videoId: Swift.String, vuid: Swift.String, zone: Swift.String, percent: Swift.Double)
+  case VideoLinkClicked(videoId: Swift.String, vuid: Swift.String, zone: Swift.String)
+}
+public protocol DTKNSTrackingDelegate : AnyObject {
+  func trackEvent(_ event: NewsSnackSDK.TrackingEvent, sessionId: Swift.String?)
+}
+extension NewsSnackSDK.NewsSnack {
+  public static let shared: NewsSnackSDK.NewsSnack
+  public func initialize(config: NewsSnackSDK.DTKNSConfig) throws
+  public func setLoggerDelegate(_ delegate: (any NewsSnackSDK.DTKNSLoggerDelegate)?)
+  public func setTrackingDelegate(_ delegate: (any NewsSnackSDK.DTKNSTrackingDelegate)?)
+  public func newsSnackViewController(uiConfig: NewsSnackSDK.DTKNSUIConfig? = nil) throws -> UIKit.UIViewController
+}
+extension ObjectiveC.NSObject {
+  public var className: Swift.String {
+    get
+  }
+  public static var className: Swift.String {
+    get
+  }
+}
+public protocol DTKNSLoggerDelegate : AnyObject {
+  func debug(message: Swift.String)
+  func info(message: Swift.String)
+  func warn(message: Swift.String)
+  func error(message: Swift.String, error: (any Swift.Error)?)
+}
+@_hasMissingDesignatedInitializers public class NewsSnack {
+  @objc deinit
+}
+extension UIKit.UIColor {
+  convenience public init?(hex: Swift.String)
+}

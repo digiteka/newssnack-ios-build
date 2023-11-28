@@ -35,23 +35,23 @@ Dans la méthode `application(_:, didFinishLaunchingWithOptions:)` de votre clas
 
 Il est possible de définir un logger personnalisé pour récupérer les logs de la librairie. Le logger doit implémenter le protocol `DTKNSLoggerDelegate` :
 
-    extension AppDelegate: DTKNSLoggerDelegate {
-    	func debug(message: String) {
-    		print("debug " + message)
-    	}
-
-    	func info(message: String) {
-    		print("info " + message)
-    	}
-
-    	func warn(message: String) {
-    		print("warn " + message)
-    	}
-
-    	func error(message: String, error: Error?) {
-    		print("error " + message, error as Any)
-    	}
-    }
+	extension AppDelegate: DTKNSLoggerDelegate {
+		func NewsSnackDebug(message: String) {
+			print("debug " + message)
+		}
+		
+		func NewsSnackInfo(message: String) {
+			print("info " + message)
+		}
+		
+		func NewsSnackWarn(message: String) {
+			print("warn " + message)
+		}
+		
+		func NewsSnackError(message: String, error: Error?) {
+			print("error " + message, error as Any)
+		}
+	}
 
 Puis passez le logger à la librairie :
 

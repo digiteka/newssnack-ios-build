@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.0 / 8] - 2023-11-28
+* fix: rename logger functions
+
+## [1.0.0 / 7] - 2023-11-27
+* fix: use Bundle image
+
 ## [1.0.0 / 6] - 2023-11-15
 * fix: change number of lines for collapsed title
 

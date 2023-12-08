@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.0.1 / 0] - 2023-12-08
+* feat: add new UIConfig font for zone names
+
 ## [1.0.0 / 8] - 2023-11-28
 * fix: rename logger functions
 

@@ -13,7 +13,7 @@ Simply add the dependency to your project using one of this solution:
 
 You can use [CocoaPods](https://cocoapods.org/) to install `NewsSnackSDK` by adding it to your `Podfile`:
 
-`pod 'NewsSnackSDK', '~> 1.0.0'`
+`pod 'NewsSnackSDK', '~> 1.0.1'`
 
 ## Swift Package Manager
 
@@ -92,6 +92,7 @@ The UI can be customized by passing a `DTKNSUIConfig` instance to the `NewsSnack
         uiConfig: DTKNSUIConfig(
             titleFont: UIFont.boldSystemFont(ofSize: 42),
             descriptionFont: UIFont.italicSystemFont(ofSize: 12),
+            zoneFont: UIFont.systemFont(ofSize: 25),
             playImageName: "Play",
             pauseImageName: "Pause",
             emptyStateImageName: "EmptyState"

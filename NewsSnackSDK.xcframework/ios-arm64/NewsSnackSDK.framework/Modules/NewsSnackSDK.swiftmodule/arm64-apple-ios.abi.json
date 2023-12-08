@@ -224,6 +224,47 @@
           },
           {
             "kind": "Var",
+            "name": "zoneFont",
+            "printedName": "zoneFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12NewsSnackSDK13DTKNSUIConfigC8zoneFontSo6UIFontCvp",
+            "mangledName": "$s12NewsSnackSDK13DTKNSUIConfigC8zoneFontSo6UIFontCvp",
+            "moduleName": "NewsSnackSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12NewsSnackSDK13DTKNSUIConfigC8zoneFontSo6UIFontCvg",
+                "mangledName": "$s12NewsSnackSDK13DTKNSUIConfigC8zoneFontSo6UIFontCvg",
+                "moduleName": "NewsSnackSDK",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "playImage",
             "printedName": "playImage",
             "children": [
@@ -569,7 +610,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(forcedUserInterfaceStyle:titleFont:descriptionFont:playImageName:pauseImageName:emptyStateImageName:unlockLandscapeOrientationForPhone:)",
+            "printedName": "init(forcedUserInterfaceStyle:titleFont:descriptionFont:zoneFont:playImageName:pauseImageName:emptyStateImageName:unlockLandscapeOrientationForPhone:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -587,6 +628,21 @@
                     "name": "UIUserInterfaceStyle",
                     "printedName": "UIKit.UIUserInterfaceStyle",
                     "usr": "c:@E@UIUserInterfaceStyle"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
                   }
                 ],
                 "hasDefaultArg": true,
@@ -676,8 +732,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:12NewsSnackSDK13DTKNSUIConfigC24forcedUserInterfaceStyle9titleFont011descriptionJ013playImageName05pausemN0010emptyStatemN034unlockLandscapeOrientationForPhoneACSo06UIUsergH0VSg_So6UIFontCSgAPSSSgA2QSbtcfc",
-            "mangledName": "$s12NewsSnackSDK13DTKNSUIConfigC24forcedUserInterfaceStyle9titleFont011descriptionJ013playImageName05pausemN0010emptyStatemN034unlockLandscapeOrientationForPhoneACSo06UIUsergH0VSg_So6UIFontCSgAPSSSgA2QSbtcfc",
+            "usr": "s:12NewsSnackSDK13DTKNSUIConfigC24forcedUserInterfaceStyle9titleFont011descriptionJ004zoneJ013playImageName05pausenO0010emptyStatenO034unlockLandscapeOrientationForPhoneACSo06UIUsergH0VSg_So6UIFontCSgA2QSSSgA2RSbtcfc",
+            "mangledName": "$s12NewsSnackSDK13DTKNSUIConfigC24forcedUserInterfaceStyle9titleFont011descriptionJ004zoneJ013playImageName05pausenO0010emptyStatenO034unlockLandscapeOrientationForPhoneACSo06UIUsergH0VSg_So6UIFontCSgA2QSSSgA2RSbtcfc",
             "moduleName": "NewsSnackSDK",
             "declAttributes": [
               "AccessControl",
@@ -2668,49 +2724,49 @@
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 2255,
+      "offset": 2503,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2479,
+      "offset": 2761,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2501,
+      "offset": 2783,
       "length": 6,
       "value": "\"Play\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2603,
+      "offset": 2885,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2625,
+      "offset": 2907,
       "length": 7,
       "value": "\"Pause\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2738,
+      "offset": 3020,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2760,
+      "offset": 3042,
       "length": 12,
       "value": "\"EmptyState\""
     },
@@ -4390,14 +4446,14 @@
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13036,
+      "offset": 13029,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13278,
+      "offset": 13271,
       "length": 1,
       "value": "0"
     },

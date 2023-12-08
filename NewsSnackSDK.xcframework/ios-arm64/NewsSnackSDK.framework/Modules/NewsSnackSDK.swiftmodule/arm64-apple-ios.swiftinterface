@@ -25,11 +25,14 @@ import os
   public var descriptionFont: UIKit.UIFont {
     get
   }
+  public var zoneFont: UIKit.UIFont {
+    get
+  }
   public var playImage: UIKit.UIImage
   public var pauseImage: UIKit.UIImage
   public var emptyStateImage: UIKit.UIImage
   public var unlockLandscapeOrientationForPhone: Swift.Bool
-  public init(forcedUserInterfaceStyle: UIKit.UIUserInterfaceStyle? = nil, titleFont: UIKit.UIFont? = nil, descriptionFont: UIKit.UIFont? = nil, playImageName: Swift.String? = nil, pauseImageName: Swift.String? = nil, emptyStateImageName: Swift.String? = nil, unlockLandscapeOrientationForPhone: Swift.Bool = false)
+  public init(forcedUserInterfaceStyle: UIKit.UIUserInterfaceStyle? = nil, titleFont: UIKit.UIFont? = nil, descriptionFont: UIKit.UIFont? = nil, zoneFont: UIKit.UIFont? = nil, playImageName: Swift.String? = nil, pauseImageName: Swift.String? = nil, emptyStateImageName: Swift.String? = nil, unlockLandscapeOrientationForPhone: Swift.Bool = false)
   @objc deinit
 }
 @objc public class DTKNSConfig : ObjectiveC.NSObject {

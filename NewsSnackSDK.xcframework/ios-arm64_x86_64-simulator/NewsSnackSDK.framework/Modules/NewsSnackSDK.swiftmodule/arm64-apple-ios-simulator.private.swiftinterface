@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
 // swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NewsSnackSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
@@ -35,10 +35,15 @@ import os
   public init(forcedUserInterfaceStyle: UIKit.UIUserInterfaceStyle? = nil, titleFont: UIKit.UIFont? = nil, descriptionFont: UIKit.UIFont? = nil, zoneFont: UIKit.UIFont? = nil, playImageName: Swift.String? = nil, pauseImageName: Swift.String? = nil, emptyStateImageName: Swift.String? = nil, unlockLandscapeOrientationForPhone: Swift.Bool = false)
   @objc deinit
 }
+public protocol DTKNSInjector : ObjectiveC.NSObject {
+  func hasViewAvailableFor(placementId: Swift.String) -> Swift.Bool
+  func buildViewFor(placementId: Swift.String) -> UIKit.UIView?
+}
 @objc public class DTKNSConfig : ObjectiveC.NSObject {
   public var mdtk: Swift.String
   public var debugMode: Swift.Bool
-  public init(mdtk: Swift.String, debugMode: Swift.Bool = false)
+  weak public var injector: (any NewsSnackSDK.DTKNSInjector)?
+  public init(mdtk: Swift.String, debugMode: Swift.Bool = false, injector: (any NewsSnackSDK.DTKNSInjector)? = nil)
   @objc deinit
 }
 public enum TrackingEvent {
@@ -57,7 +62,7 @@ extension NewsSnackSDK.NewsSnack {
   public func initialize(config: NewsSnackSDK.DTKNSConfig) throws
   public func setLoggerDelegate(_ delegate: (any NewsSnackSDK.DTKNSLoggerDelegate)?)
   public func setTrackingDelegate(_ delegate: (any NewsSnackSDK.DTKNSTrackingDelegate)?)
-  public func newsSnackViewController(uiConfig: NewsSnackSDK.DTKNSUIConfig? = nil) throws -> UIKit.UIViewController
+  public func newsSnackViewController(uiConfig: NewsSnackSDK.DTKNSUIConfig? = nil, injector: (any NewsSnackSDK.DTKNSInjector)? = nil) throws -> UIKit.UIViewController
 }
 extension ObjectiveC.NSObject {
   public var className: Swift.String {

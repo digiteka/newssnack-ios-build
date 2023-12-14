@@ -867,6 +867,93 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NewsSnackSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DTKNSInjector",
+        "printedName": "DTKNSInjector",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "hasViewAvailableFor",
+            "printedName": "hasViewAvailableFor(placementId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12NewsSnackSDK13DTKNSInjectorP19hasViewAvailableFor11placementIdSbSS_tF",
+            "mangledName": "$s12NewsSnackSDK13DTKNSInjectorP19hasViewAvailableFor11placementIdSbSS_tF",
+            "moduleName": "NewsSnackSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : NewsSnackSDK.DTKNSInjector>",
+            "sugared_genericSig": "<Self where Self : NewsSnackSDK.DTKNSInjector>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "buildViewFor",
+            "printedName": "buildViewFor(placementId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12NewsSnackSDK13DTKNSInjectorP12buildViewFor11placementIdSo6UIViewCSgSS_tF",
+            "mangledName": "$s12NewsSnackSDK13DTKNSInjectorP12buildViewFor11placementIdSo6UIViewCSgSS_tF",
+            "moduleName": "NewsSnackSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : NewsSnackSDK.DTKNSInjector>",
+            "sugared_genericSig": "<Self where Self : NewsSnackSDK.DTKNSInjector>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:12NewsSnackSDK13DTKNSInjectorP",
+        "mangledName": "$s12NewsSnackSDK13DTKNSInjectorP",
+        "moduleName": "NewsSnackSDK",
+        "genericSig": "<τ_0_0 : ObjectiveC.NSObject>",
+        "sugared_genericSig": "<Self : ObjectiveC.NSObject>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "DTKNSConfig",
         "printedName": "DTKNSConfig",
@@ -1045,9 +1132,113 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "injector",
+            "printedName": "injector",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "NewsSnackSDK.DTKNSInjector?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12NewsSnackSDK11DTKNSConfigC8injectorAA13DTKNSInjector_pSgvp",
+            "mangledName": "$s12NewsSnackSDK11DTKNSConfigC8injectorAA13DTKNSInjector_pSgvp",
+            "moduleName": "NewsSnackSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "NewsSnackSDK.DTKNSInjector?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DTKNSInjector",
+                        "printedName": "NewsSnackSDK.DTKNSInjector",
+                        "usr": "s:12NewsSnackSDK13DTKNSInjectorP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12NewsSnackSDK11DTKNSConfigC8injectorAA13DTKNSInjector_pSgvg",
+                "mangledName": "$s12NewsSnackSDK11DTKNSConfigC8injectorAA13DTKNSInjector_pSgvg",
+                "moduleName": "NewsSnackSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "NewsSnackSDK.DTKNSInjector?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DTKNSInjector",
+                        "printedName": "NewsSnackSDK.DTKNSInjector",
+                        "usr": "s:12NewsSnackSDK13DTKNSInjectorP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12NewsSnackSDK11DTKNSConfigC8injectorAA13DTKNSInjector_pSgvs",
+                "mangledName": "$s12NewsSnackSDK11DTKNSConfigC8injectorAA13DTKNSInjector_pSgvs",
+                "moduleName": "NewsSnackSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12NewsSnackSDK11DTKNSConfigC8injectorAA13DTKNSInjector_pSgvM",
+                "mangledName": "$s12NewsSnackSDK11DTKNSConfigC8injectorAA13DTKNSInjector_pSgvM",
+                "moduleName": "NewsSnackSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(mdtk:debugMode:)",
+            "printedName": "init(mdtk:debugMode:injector:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1067,11 +1258,26 @@
                 "printedName": "Swift.Bool",
                 "hasDefaultArg": true,
                 "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NewsSnackSDK.DTKNSInjector?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTKNSInjector",
+                    "printedName": "NewsSnackSDK.DTKNSInjector",
+                    "usr": "s:12NewsSnackSDK13DTKNSInjectorP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:12NewsSnackSDK11DTKNSConfigC4mdtk9debugModeACSS_Sbtcfc",
-            "mangledName": "$s12NewsSnackSDK11DTKNSConfigC4mdtk9debugModeACSS_Sbtcfc",
+            "usr": "s:12NewsSnackSDK11DTKNSConfigC4mdtk9debugMode8injectorACSS_SbAA13DTKNSInjector_pSgtcfc",
+            "mangledName": "$s12NewsSnackSDK11DTKNSConfigC4mdtk9debugMode8injectorACSS_SbAA13DTKNSInjector_pSgtcfc",
             "moduleName": "NewsSnackSDK",
             "declAttributes": [
               "AccessControl",
@@ -1174,6 +1380,16 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NewsSnackSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "NewsSnackSDK",
         "declAttributes": [
@@ -1652,6 +1868,16 @@
         "sugared_genericSig": "<Self : AnyObject>",
         "declAttributes": [
           "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NewsSnackSDK",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -2192,7 +2418,7 @@
           {
             "kind": "Function",
             "name": "newsSnackViewController",
-            "printedName": "newsSnackViewController(uiConfig:)",
+            "printedName": "newsSnackViewController(uiConfig:injector:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2214,11 +2440,26 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NewsSnackSDK.DTKNSInjector?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTKNSInjector",
+                    "printedName": "NewsSnackSDK.DTKNSInjector",
+                    "usr": "s:12NewsSnackSDK13DTKNSInjectorP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:12NewsSnackSDK0aB0C04newsB14ViewController8uiConfigSo06UIViewF0CAA13DTKNSUIConfigCSg_tKF",
-            "mangledName": "$s12NewsSnackSDK0aB0C04newsB14ViewController8uiConfigSo06UIViewF0CAA13DTKNSUIConfigCSg_tKF",
+            "usr": "s:12NewsSnackSDK0aB0C04newsB14ViewController8uiConfig8injectorSo06UIViewF0CAA13DTKNSUIConfigCSg_AA13DTKNSInjector_pSgtKF",
+            "mangledName": "$s12NewsSnackSDK0aB0C04newsB14ViewController8uiConfig8injectorSo06UIViewF0CAA13DTKNSUIConfigCSg_AA13DTKNSInjector_pSgtKF",
             "moduleName": "NewsSnackSDK",
             "declAttributes": [
               "AccessControl",
@@ -2269,6 +2510,36 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NewsSnackSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NewsSnackSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NewsSnackSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "NewsSnackSDK",
         "declAttributes": [
@@ -2708,3080 +2979,3241 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
       "kind": "BooleanLiteral",
       "offset": 291,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
+      "kind": "Array",
+      "offset": 729,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
       "kind": "StringLiteral",
       "offset": 119,
       "length": 10,
       "value": "\"NewsSnackSDK.ZoneEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 2503,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 2761,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 2783,
       "length": 6,
       "value": "\"Play\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 2885,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 2907,
       "length": 7,
       "value": "\"Pause\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 3020,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 3042,
       "length": 12,
       "value": "\"EmptyState\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 124,
       "length": 13,
       "value": "\"NewsSnackSDK.DTKNSUIConfig\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 608,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 986,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1338,
       "length": 4,
       "value": "0.06"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1351,
       "length": 4,
       "value": "0.07"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1363,
       "length": 4,
       "value": "0.08"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1376,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1451,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1529,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1664,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 2072,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2122,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2498,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 2959,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 3810,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 3889,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 3960,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 4123,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 4176,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 4303,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 5423,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 5554,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 6226,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "Array",
       "offset": 6363,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 7566,
       "length": 29,
       "value": "\"Delegate should not be null\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 7703,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 7735,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8015,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8071,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8403,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8459,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8959,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 9238,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 9664,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 9701,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 9935,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 10195,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 10324,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 10396,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 10709,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 10732,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11130,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11164,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11506,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11529,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 11727,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 11832,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 12097,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 13138,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 13285,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 13532,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 13586,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 13631,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 14164,
       "length": 44,
       "value": "\"Can't create URL from string \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 14207,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 14635,
       "length": 44,
       "value": "\"Can't create URL from string \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 14678,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 15263,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 15373,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 15586,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 16088,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 16108,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 16360,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 289,
+      "offset": 664,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 520,
+      "offset": 972,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Config\/DTKNSConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Config\/DTKNSConfig.swift",
       "kind": "StringLiteral",
-      "offset": 127,
+      "offset": 502,
       "length": 11,
       "value": "\"NewsSnackSDK.DTKNSConfig\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Utils\/CapsuleView.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Utils\/CapsuleView.swift",
       "kind": "IntegerLiteral",
       "offset": 360,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Tracking\/TrackingManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/PlacementDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 247,
+      "length": 14,
+      "value": "\"placement_id\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/PlacementDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 247,
+      "length": 14,
+      "value": "\"placement_id\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Tracking\/TrackingManager.swift",
       "kind": "IntegerLiteral",
       "offset": 263,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 318,
       "length": 18,
       "value": "\"video_background\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 365,
       "length": 15,
       "value": "\"primary_color\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 411,
       "length": 16,
       "value": "\"secondar_color\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 318,
       "length": 18,
       "value": "\"video_background\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 365,
       "length": 15,
       "value": "\"primary_color\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 411,
       "length": 16,
       "value": "\"secondar_color\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/Entities\/VideoEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/Entities\/VideoEntity.swift",
       "kind": "StringLiteral",
       "offset": 120,
       "length": 11,
       "value": "\"NewsSnackSDK.VideoEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/Entities\/RenderEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/Entities\/RenderEntity.swift",
       "kind": "StringLiteral",
       "offset": 134,
       "length": 12,
       "value": "\"NewsSnackSDK.RenderEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 548,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 674,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 1064,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 1785,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 1841,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 1896,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 1956,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "Dictionary",
       "offset": 2727,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/Entities\/ColorEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/Entities\/ColorEntity.swift",
       "kind": "StringLiteral",
       "offset": 115,
       "length": 11,
       "value": "\"NewsSnackSDK.ColorEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/String+Localize.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/String+Localize.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 28,
       "value": "\"_____String not found_____\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/String+Localize.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/String+Localize.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/String+Localize.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/String+Localize.swift",
       "kind": "StringLiteral",
       "offset": 426,
       "length": 39,
       "value": "\"No localization found for key \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/String+Localize.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/String+Localize.swift",
       "kind": "StringLiteral",
       "offset": 464,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1267,
+      "offset": 1279,
       "length": 14,
       "value": "\"DTKNS_CONF_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1292,
+      "offset": 1304,
       "length": 14,
       "value": "\"Invalid MDTK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1321,
+      "offset": 1333,
       "length": 72,
       "value": "\"MDTK must not be null, empty or blank. Please provide a valid Api Key.\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1453,
+      "offset": 1465,
       "length": 14,
       "value": "\"DTKNS_CONF_2\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1478,
+      "offset": 1490,
       "length": 9,
       "value": "\"No data\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1502,
+      "offset": 1514,
       "length": 140,
       "value": "\"No data were provided for your Api key (mdtk), please check your Api Key is valid, and you do provide data for it in the digiteka console.\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1661,
+      "offset": 1673,
       "length": 30,
       "value": "\"dtkns_conf_2.userDescription\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1768,
+      "offset": 1780,
       "length": 14,
       "value": "\"DTKNS_CONF_3\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1793,
+      "offset": 1805,
       "length": 31,
       "value": "\"NewsSnack not yet initialized\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1839,
+      "offset": 1851,
       "length": 91,
       "value": "\"NewsSnack SDK has not yet been initialized. Please call NewsSnack.shared.initialize first\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 1997,
+      "offset": 2019,
       "length": 14,
       "value": "\"DTKNS_CONF_4\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2022,
+      "offset": 2044,
       "length": 18,
       "value": "\"No video in zone\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2055,
-      "length": 28,
-      "value": "\"No video available in zone\""
+      "offset": 2077,
+      "length": 36,
+      "value": "\"No video available in zone \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2175,
+      "offset": 2112,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "kind": "StringLiteral",
+      "offset": 2205,
       "length": 18,
       "value": "\"DTKNS_INTERNAL_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2204,
+      "offset": 2234,
       "length": 16,
       "value": "\"Internal error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2235,
+      "offset": 2265,
       "length": 32,
       "value": "\"Internal error: \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2266,
+      "offset": 2296,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2364,
+      "offset": 2394,
       "length": 14,
       "value": "\"DTKNS_DATA_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2389,
+      "offset": 2419,
       "length": 22,
       "value": "\"Data integrity error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2435,
+      "offset": 2465,
       "length": 38,
       "value": "\"Data integrity error: \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2472,
+      "offset": 2502,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2561,
+      "offset": 2591,
       "length": 13,
       "value": "\"DTKNS_NET_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2585,
+      "offset": 2615,
       "length": 25,
       "value": "\"Network connection lost\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2625,
+      "offset": 2655,
       "length": 26,
       "value": "\"Network connection lost.\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2670,
+      "offset": 2700,
       "length": 29,
       "value": "\"dtkns_net_1.userDescription\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2790,
+      "offset": 2820,
       "length": 13,
       "value": "\"DTKNS_NET_2\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2814,
+      "offset": 2844,
       "length": 32,
       "value": "\"Network connection unavailable\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2861,
+      "offset": 2891,
       "length": 33,
       "value": "\"Network connection unavailable.\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 2913,
+      "offset": 2943,
       "length": 29,
       "value": "\"dtkns_net_2.userDescription\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 3046,
+      "offset": 3076,
       "length": 13,
       "value": "\"DTKNS_SDK_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 3070,
+      "offset": 3100,
       "length": 23,
       "value": "\"URL conversion failed\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 3108,
+      "offset": 3138,
       "length": 38,
       "value": "\"Can't convert URL from string \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
-      "offset": 3145,
+      "offset": 3175,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 201,
       "length": 28,
       "value": "\"https:\/\/trck.digiteka.com\/\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 388,
       "length": 36,
       "value": "\"[TRACKING] tracking event \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 423,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 511,
       "length": 48,
       "value": "\"[TRACKING] Can't create URL for event \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 558,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 813,
       "length": 18,
       "value": "\"[TRACKING] Error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 971,
       "length": 35,
       "value": "\"[TRACKING] tracked event \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1005,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1492,
       "length": 6,
       "value": "\"mdtk\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1692,
       "length": 3,
       "value": "\"e\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1704,
       "length": 6,
       "value": "\"open\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1748,
       "length": 5,
       "value": "\"dif\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1917,
       "length": 4,
       "value": "\"vp\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1997,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2140,
       "length": 3,
       "value": "\"e\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2152,
       "length": 7,
       "value": "\"close\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2197,
       "length": 5,
       "value": "\"dif\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2366,
       "length": 4,
       "value": "\"vp\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2446,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2627,
       "length": 3,
       "value": "\"e\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2639,
       "length": 7,
       "value": "\"vdimp\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2684,
       "length": 3,
       "value": "\"v\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2741,
       "length": 3,
       "value": "\"z\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2795,
       "length": 5,
       "value": "\"dif\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2851,
       "length": 5,
       "value": "\"uid\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3020,
       "length": 4,
       "value": "\"vv\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3100,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3298,
       "length": 3,
       "value": "\"e\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3310,
       "length": 7,
       "value": "\"vdvwd\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3355,
       "length": 5,
       "value": "\"dif\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3411,
       "length": 5,
       "value": "\"uid\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3466,
       "length": 3,
       "value": "\"v\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3523,
       "length": 3,
       "value": "\"z\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3577,
       "length": 5,
       "value": "\"sec\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3591,
       "length": 13,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3603,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3757,
       "length": 4,
       "value": "\"vv\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3837,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4036,
       "length": 3,
       "value": "\"e\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4048,
       "length": 7,
       "value": "\"vdcpt\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4093,
       "length": 5,
       "value": "\"dif\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4149,
       "length": 5,
       "value": "\"uid\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4204,
       "length": 3,
       "value": "\"v\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4261,
       "length": 3,
       "value": "\"z\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4315,
       "length": 5,
       "value": "\"pct\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4329,
       "length": 12,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4340,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4494,
       "length": 4,
       "value": "\"vv\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4574,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4761,
       "length": 3,
       "value": "\"e\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4773,
       "length": 7,
       "value": "\"vdclk\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4818,
       "length": 5,
       "value": "\"dif\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4874,
       "length": 5,
       "value": "\"uid\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4929,
       "length": 3,
       "value": "\"v\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4986,
       "length": 3,
       "value": "\"z\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 5154,
       "length": 4,
       "value": "\"vv\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 5234,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Utils\/NetworkMonitor.swift",
       "kind": "BooleanLiteral",
       "offset": 519,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 1021,
       "length": 16,
       "value": "\"NetworkMonitor\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 14,
       "value": "\"NewsSnackSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 8,
       "value": "\"Logger\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 752,
       "length": 30,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 781,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 983,
       "length": 14,
       "value": "\"NewsSnackSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1009,
       "length": 8,
       "value": "\"Logger\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1056,
       "length": 30,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1085,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1287,
       "length": 14,
       "value": "\"NewsSnackSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1313,
       "length": 8,
       "value": "\"Logger\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1361,
       "length": 30,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1390,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1608,
       "length": 14,
       "value": "\"NewsSnackSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1634,
       "length": 8,
       "value": "\"Logger\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1682,
       "length": 30,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1711,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 699,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 772,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 906,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1112,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "Array",
-      "offset": 1286,
+      "offset": 1332,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1327,
+      "offset": 1373,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "Array",
-      "offset": 1440,
+      "offset": 1486,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2246,
+      "offset": 2351,
       "length": 13,
       "value": "\"empty_state\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3928,
+      "offset": 4033,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3983,
+      "offset": 4088,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4150,
+      "offset": 4255,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4232,
+      "offset": 4337,
       "length": 7,
       "value": "\"retry\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4429,
+      "offset": 4534,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4688,
+      "offset": 4793,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4693,
+      "offset": 4798,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4866,
+      "offset": 4971,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4893,
+      "offset": 4998,
       "length": 15,
       "value": "\"unknown_error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5000,
+      "offset": 5105,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5083,
+      "offset": 5188,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5305,
+      "offset": 5410,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5426,
+      "offset": 5531,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5505,
+      "offset": 5610,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5780,
+      "offset": 5885,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5807,
+      "offset": 5912,
       "length": 9,
       "value": "\"no_data\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5904,
+      "offset": 6009,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5983,
+      "offset": 6088,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6118,
+      "offset": 6223,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6173,
+      "offset": 6278,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6917,
+      "offset": 7022,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6923,
+      "offset": 7028,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "Array",
-      "offset": 7691,
+      "offset": 7796,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7883,
+      "offset": 8008,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7921,
+      "offset": 8046,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8096,
+      "offset": 8221,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8694,
+      "offset": 8819,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8946,
+      "offset": 9071,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9918,
+      "offset": 10043,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9960,
+      "offset": 10085,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10095,
+      "offset": 10220,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10448,
+      "offset": 10573,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10624,
+      "offset": 10749,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12508,
+      "offset": 12633,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13029,
+      "offset": 13154,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13271,
+      "offset": 13396,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 308,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 371,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Array",
-      "offset": 842,
+      "offset": 1009,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Array",
-      "offset": 926,
+      "offset": 1139,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "Array",
+      "offset": 1248,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Dictionary",
-      "offset": 1058,
+      "offset": 1386,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1101,
+      "offset": 1429,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1203,
+      "offset": 1531,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2023,
+      "offset": 2351,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2343,
+      "offset": 2671,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2635,
+      "offset": 2963,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1240,
+      "offset": 1568,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3208,
+      "offset": 3536,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3492,
+      "offset": 3879,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3599,
+      "offset": 3986,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4385,
+      "offset": 4772,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4397,
+      "offset": 4784,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4620,
+      "offset": 5007,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4776,
+      "offset": 5163,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4898,
+      "offset": 5285,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Array",
-      "offset": 5097,
+      "offset": 5484,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Array",
-      "offset": 5771,
+      "offset": 6158,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6143,
+      "offset": 6530,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Dictionary",
-      "offset": 6471,
+      "offset": 6858,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7502,
+      "offset": 8001,
       "length": 84,
       "value": "\"Fail to dequeue reusable cell with identifier \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7585,
+      "offset": 8084,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8887,
+      "length": 25,
+      "value": "\"[Placement] No injector\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9186,
+      "length": 72,
+      "value": "\"[Placement] No view available for placementId \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9257,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9621,
+      "length": 88,
+      "value": "\"Fail to dequeue reusable cell with identifier \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9708,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9995,
+      "length": 71,
+      "value": "\"[Placement] No view returned for placementId \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10065,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8371,
+      "offset": 10642,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8727,
+      "offset": 10998,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9762,
+      "offset": 12385,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12596,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 13113,
+      "length": 25,
+      "value": "\"[Placement] No injector\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 13311,
+      "length": 72,
+      "value": "\"[Placement] No view availabel for placementId \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 13382,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13899,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9781,
+      "offset": 13918,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10387,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10598,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11078,
+      "offset": 14406,
       "length": 62,
       "value": "\"Video failed to play with error \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11139,
+      "offset": 14467,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11196,
+      "offset": 14524,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11359,
+      "offset": 14687,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11437,
+      "offset": 14765,
       "length": 7,
       "value": "\"retry\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11562,
+      "offset": 14890,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11673,
+      "offset": 15001,
       "length": 44,
       "value": "\"Should store player for videoId \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11716,
+      "offset": 15044,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11880,
+      "offset": 15208,
       "length": 82,
       "value": "\"Can't retrieve video for id \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11919,
+      "offset": 15247,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11935,
+      "offset": 15263,
       "length": 22,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11944,
+      "offset": 15272,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11956,
+      "offset": 15284,
       "length": 6,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11961,
+      "offset": 15289,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12042,
+      "offset": 15370,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12133,
+      "offset": 15461,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12145,
+      "offset": 15473,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12169,
+      "offset": 15497,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/VideoViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 12236,
+      "offset": 15564,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 614,
       "length": 35,
       "value": "\"VideoDTO does not have id \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 648,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 756,
       "length": 38,
       "value": "\"VideoDTO does not have title \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 793,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 913,
       "length": 44,
       "value": "\"VideoDTO does not have description \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 956,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1064,
       "length": 38,
       "value": "\"VideoDTO does not have image \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1101,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1225,
       "length": 37,
       "value": "\"Can't create URL for image \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1261,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1365,
       "length": 40,
       "value": "\"VideoDTO does not have hls URL \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1404,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1526,
       "length": 33,
       "value": "\"Can't create URL for hls \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1558,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1664,
       "length": 37,
       "value": "\"VideoDTO does not have vuid \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1700,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "Array",
       "offset": 1885,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/Entities\/PlacementEntity.swift",
+      "kind": "StringLiteral",
+      "offset": 124,
+      "length": 15,
+      "value": "\"NewsSnackSDK.PlacementEntity\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 8,
       "value": "\"[💬]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 10,
       "value": "\"[ℹ️]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 263,
       "length": 10,
       "value": "\"[⚠️]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 306,
       "length": 8,
       "value": "\"[🔥]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 8,
       "value": "\"[💣]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 8,
       "value": "\"[💬]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 10,
       "value": "\"[ℹ️]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 263,
       "length": 10,
       "value": "\"[⚠️]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 306,
       "length": 8,
       "value": "\"[🔥]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 8,
       "value": "\"[💣]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "BooleanLiteral",
       "offset": 552,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1948,
       "length": 25,
       "value": "\"yyyy-MM-dd hh:mm:ss.SSS\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2378,
       "length": 120,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2399,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2420,
       "length": 1,
       "value": "\"[\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2454,
       "length": 1,
       "value": "\": \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2467,
       "length": 1,
       "value": "\" (\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2476,
       "length": 1,
       "value": "\")] \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2491,
       "length": 5,
       "value": "\"NIL\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2497,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2792,
       "length": 3,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2833,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2880,
       "length": 8,
       "value": "\".swift\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2896,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2903,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 3,
       "value": "\"#\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 339,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 479,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 571,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 677,
       "length": 10,
       "value": "0xff000000"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 692,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 698,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 743,
       "length": 10,
       "value": "0x00ff0000"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 758,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 764,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 809,
       "length": 10,
       "value": "0x0000ff00"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 824,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 829,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 873,
       "length": 10,
       "value": "0x000000ff"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 887,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1044,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1136,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1242,
       "length": 8,
       "value": "0xff0000"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1255,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1261,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1306,
       "length": 8,
       "value": "0x00ff00"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1319,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1324,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1368,
       "length": 8,
       "value": "0x0000ff"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1380,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1461,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/Double+Round.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/UI\/ZoneViewController\/PlacementCollectionViewCell\/PlacementCollectionViewCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 393,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/Double+Round.swift",
       "kind": "FloatLiteral",
       "offset": 203,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 336,
       "length": 31,
       "value": "\"https:\/\/www.ultimedia.com\/api\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 790,
       "length": 169,
       "value": "\"[HTTP] response for URL request [\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 848,
       "length": 5,
       "value": "\"NIL\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 854,
       "length": 1,
       "value": "\"] \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 889,
       "length": 5,
       "value": "\"nil\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 895,
       "length": 1,
       "value": "\" - \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 929,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 958,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2310,
       "length": 169,
       "value": "\"[HTTP] response for URL request [\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2368,
       "length": 5,
       "value": "\"NIL\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2374,
       "length": 1,
       "value": "\"] \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2409,
       "length": 5,
       "value": "\"nil\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2415,
       "length": 1,
       "value": "\" - \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2449,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2478,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "IntegerLiteral",
       "offset": 2790,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2862,
       "length": 82,
       "value": "\"API error - \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2943,
       "length": 9,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3232,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3258,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3232,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3258,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3465,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3505,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "Array",
       "offset": 3716,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4004,
       "length": 92,
       "value": "\"[HTTP] [\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4031,
       "length": 1,
       "value": "\"] \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4043,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4061,
       "length": 28,
       "value": "\" - params \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "Dictionary",
       "offset": 4084,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4088,
       "length": 5,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4092,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4095,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4404,
       "length": 6,
       "value": "\"mdtk\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 427,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 11,
       "value": "\"zone_name\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 14,
       "value": "\"widget_title\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 575,
       "length": 10,
       "value": "\"owner_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 12,
       "value": "\"search_key\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 427,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 11,
       "value": "\"zone_name\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 14,
       "value": "\"widget_title\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 575,
       "length": 10,
       "value": "\"owner_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 12,
       "value": "\"search_key\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "Array",
       "offset": 734,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "StringLiteral",
       "offset": 335,
       "length": 47,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "StringLiteral",
       "offset": 358,
       "length": 1,
       "value": "\"\/search\/videolistzones\/\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "Array",
       "offset": 1354,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1407,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1760,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2029,
+      "offset": 2041,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2904,
+      "offset": 2916,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2998,
+      "offset": 3010,
       "length": 12,
       "value": "\"search_key\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Core\/Rest\/Entities\/DecorationEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Core\/Rest\/Entities\/DecorationEntity.swift",
       "kind": "StringLiteral",
       "offset": 125,
       "length": 16,
       "value": "\"NewsSnackSDK.DecorationEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 564,
       "length": 26,
       "value": "\"Got \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 583,
       "length": 5,
       "value": "\" zones\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 662,
       "length": 62,
       "value": "\"Zone \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 691,
       "length": 3,
       "value": "\" has \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 716,
       "length": 6,
       "value": "\" videos\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/BundleIdentifier.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 888,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 892,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 964,
+      "length": 16,
+      "value": "\"placement_\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 979,
+      "length": 52,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1002,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1027,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/BundleIdentifier.swift",
       "kind": "StringLiteral",
       "offset": 401,
       "length": 28,
       "value": "\"com.beapp.dtk.NewsSnackSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/BundleIdentifier.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/BundleIdentifier.swift",
       "kind": "StringLiteral",
       "offset": 557,
       "length": 59,
       "value": "\"unable to find bundle with identifier \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/BundleIdentifier.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/BundleIdentifier.swift",
       "kind": "StringLiteral",
       "offset": 615,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "StringLiteral",
       "offset": 325,
       "length": 115,
       "value": "\"https?:\\\/\\\/(?:www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b(?:[-a-zA-Z0-9()@:%_\\+.~#?&\\\/=]*)\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "StringLiteral",
       "offset": 483,
       "length": 32,
       "value": "\"Can't create regex from string\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "IntegerLiteral",
       "offset": 624,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "StringLiteral",
       "offset": 834,
       "length": 46,
       "value": "\"Can't get range from NSRange \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/NewsSnackSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "StringLiteral",
       "offset": 879,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/Library\/Developer\/Xcode\/DerivedData\/NewsSnackSDK-btqhvwrjdaklvpgiysrpumsdqhic\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NewsSnackSDK\/IntermediateBuildFilesPath\/NewsSnackSDK.build\/Release-iphoneos\/NewsSnackSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/cederache\/Library\/Developer\/Xcode\/DerivedData\/NewsSnackSDK-fozlhqcdyrhvtifgpnsrjefdzanf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NewsSnackSDK\/IntermediateBuildFilesPath\/NewsSnackSDK.build\/Release-iphoneos\/NewsSnackSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 733,
       "length": 12,
       "value": "\"EmptyState\""
     },
     {
-      "filePath": "\/Users\/vagrant\/Library\/Developer\/Xcode\/DerivedData\/NewsSnackSDK-btqhvwrjdaklvpgiysrpumsdqhic\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NewsSnackSDK\/IntermediateBuildFilesPath\/NewsSnackSDK.build\/Release-iphoneos\/NewsSnackSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/cederache\/Library\/Developer\/Xcode\/DerivedData\/NewsSnackSDK-fozlhqcdyrhvtifgpnsrjefdzanf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NewsSnackSDK\/IntermediateBuildFilesPath\/NewsSnackSDK.build\/Release-iphoneos\/NewsSnackSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 865,
       "length": 7,
       "value": "\"Pause\""
     },
     {
-      "filePath": "\/Users\/vagrant\/Library\/Developer\/Xcode\/DerivedData\/NewsSnackSDK-btqhvwrjdaklvpgiysrpumsdqhic\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NewsSnackSDK\/IntermediateBuildFilesPath\/NewsSnackSDK.build\/Release-iphoneos\/NewsSnackSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/cederache\/Library\/Developer\/Xcode\/DerivedData\/NewsSnackSDK-fozlhqcdyrhvtifgpnsrjefdzanf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NewsSnackSDK\/IntermediateBuildFilesPath\/NewsSnackSDK.build\/Release-iphoneos\/NewsSnackSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 990,
       "length": 6,

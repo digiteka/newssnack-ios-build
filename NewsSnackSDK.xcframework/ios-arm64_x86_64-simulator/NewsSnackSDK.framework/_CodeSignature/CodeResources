@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		/i1BBAPcS1pZTCITsJbRm3BvAlQ=
+		m4ZoeuJQXKRqiYlmQXrrXfhrtGg=
 		</data>
 		<key>CHANGELOG.md</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/NewsSnackSDK-Swift.h</key>
 		<data>
-		/4/WipjnpHnrhN+2WnSPXakP+Oo=
+		rBy1n0KcHCyIxpLG+CdXYSUT1Hg=
 		</data>
 		<key>Headers/NewsSnackSDK.h</key>
 		<data>
@@ -26,47 +26,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Sg4r3wyKxddN6LJFj0TR4nQWgd0=
+		+mI+LhS/bhIPYnKBsSTREpoG5Jk=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		PpEzgah//yGK0aWiqY+QiRzygCc=
+		b0kQ+6X3dRjLTX3ldeN6ImZYNGw=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		VNsh1leq6jCtQqtQ8Q5gYe/T/6I=
+		Bf79iQq5uOqlsnyyOIJcMSdOPzg=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		PCTBnNy/l1+KWHlhg+ZXVTdnnxY=
+		rs7U9SrerQ06iiR+xEfP7Ajmk9U=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VNsh1leq6jCtQqtQ8Q5gYe/T/6I=
+		Bf79iQq5uOqlsnyyOIJcMSdOPzg=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wyz/OkUL0U38x60wY7E8n/GaNN8=
+		d1G17oiC74Mrjk4wdIRfC5OklBk=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		PpEzgah//yGK0aWiqY+QiRzygCc=
+		b0kQ+6X3dRjLTX3ldeN6ImZYNGw=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9XPl5fhEFj6b7K/f/pbgRtcZXdA=
+		KnISMtGNkDlLtExPYe9+IToABNc=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		bp0yp+MY2aV8inWTH0g6IvGGGeg=
+		Zz6kicNFZ1MBrX9hFar5B00+Res=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9XPl5fhEFj6b7K/f/pbgRtcZXdA=
+		KnISMtGNkDlLtExPYe9+IToABNc=
 		</data>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jjEQpZJTfWEaGxB88Khs3DzvZUA=
+		dyfbwaWxkyEFIDO+buc/og9U35E=
 		</data>
 		<key>NewsSnackViewController.nib</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4hwPJe4eZv9aAU3CFqRSM/a3VwmegyMEw1zRSyiq7g4=
+			igoR48xBlveIHHRAuSeOg2TI63jwBpSMkkEaBF7yIHw=
 			</data>
 		</dict>
 		<key>CHANGELOG.md</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DfFimCEU9gG0+9vW3j/GQ1yeFFPrMhp0gLwCP5QT4Og=
+			tV5cVgJJS2Ko+FHArQ2WPoxlccqtor9bk00bs7HugU4=
 			</data>
 		</dict>
 		<key>Headers/NewsSnackSDK.h</key>
@@ -147,70 +147,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Cb0P0NOqRC8QLhM2ncg3jpLbT6DAWRxUTsudbP98Sc=
+			oUr9BsbAhrh2DbEPY6uvaZf9cZDJ+YG1s4WQIg+e78Q=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			53Aw+6aKl4vSMtKcyJRMpW+LC51B9uFoD3aOv1Em/HA=
+			xHCDsoCjUvppq5A2kalcyTk1+4UNj6GTi8rMB5EXKZ8=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BnFhVhNctVGsPfal2l7+Kl7Sj5LtPlArY9S25FrF7MQ=
+			JuCvyDk8v2OzXbc3aGgipQ8p4y13mZyiGfPEZbpie38=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			53Aw+6aKl4vSMtKcyJRMpW+LC51B9uFoD3aOv1Em/HA=
+			xHCDsoCjUvppq5A2kalcyTk1+4UNj6GTi8rMB5EXKZ8=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2j/cur2rWQuLfBoIDP6J4wo/Vfvmaucc8J+epOP51fM=
+			NR9nIv2BveczVox9avoqkt8PnuwgiIpQpIKkVPKnRPU=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Cb0P0NOqRC8QLhM2ncg3jpLbT6DAWRxUTsudbP98Sc=
+			oUr9BsbAhrh2DbEPY6uvaZf9cZDJ+YG1s4WQIg+e78Q=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g3IBDQhizK4Uy9BqDwZ3klPIhh5IsRkMpaH3BpyDP48=
+			ZWu2UHWhlVT1VQJjLKoJIygCPgTxbXHMQmhkJKc6lwc=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lMXdhkkWYHV5zpRyKeOV7kjfmWOtkgI9BK6c0H9m5jc=
+			OfFvjF9BjJTbBnG3DypV7++OWsezmS3AOPQUUBY4Zws=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g3IBDQhizK4Uy9BqDwZ3klPIhh5IsRkMpaH3BpyDP48=
+			ZWu2UHWhlVT1VQJjLKoJIygCPgTxbXHMQmhkJKc6lwc=
 			</data>
 		</dict>
 		<key>Modules/NewsSnackSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eSXeqE9ZT1hXMlMJ31lRgDEHHkNp4cFMZCItdmnX1/c=
+			Ill/Jv6pa8+tVCJ6Y7Q9iHm0t2Yn7yMgw8zRMlaBVGo=
 			</data>
 		</dict>
 		<key>NewsSnackViewController.nib</key>

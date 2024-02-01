@@ -4390,70 +4390,84 @@
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8694,
+      "offset": 8504,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8946,
+      "offset": 8545,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9918,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9960,
+      "offset": 8823,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10095,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10448,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 10624,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12508,
+      "offset": 9075,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13029,
+      "offset": 10047,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10089,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10224,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10577,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10753,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12637,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13158,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vagrant\/git\/NewsSnackSDK\/UI\/NewsSnackViewController\/NewsSnackViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13271,
+      "offset": 13400,
       "length": 1,
       "value": "0"
     },

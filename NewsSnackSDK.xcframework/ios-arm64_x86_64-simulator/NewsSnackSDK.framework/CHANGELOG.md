@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.2 / 0] - 2024-02-01
+* fix: focus on selected zone
+* fix: remove zone name capitalization
+
 ## [1.0.1 / 0] - 2023-12-08
 * feat: add new UIConfig font for zone names
 

@@ -1,30 +1,31 @@
 // swift-tools-version:5.3
 import PackageDescription
 let package = Package(
-    name: "NewsSnackSDK",
+    name: "VideoFeedSDK",
     platforms: [
         .iOS(.v12)
     ],
     products: [
         .library(
-            name: "NewsSnackSDK",
-            targets: ["NewsSnackSDK"])
+            name: "VideoFeedSDK",
+            targets: ["VideoFeedSDK"]
+        )
     ],
     dependencies: [
         .package(url: "https://github.com/onevcat/Kingfisher.git", from: "7.9.0"),
     ],
     targets: [
         .binaryTarget(
-            name: "NewsSnackXCFramework",
-            path: "NewsSnackSDK.xcframework"
+            name: "VideoFeedXCFramework",
+            path: "VideoFeedSDK.xcframework"
         ),
         .target(
-            name: "NewsSnackSDK",
+            name: "VideoFeedSDK",
             dependencies: [
-                .target(name: "NewsSnackXCFramework"),
-                "Kingfisher"
+                .target(name: "VideoFeedXCFramework"),
+                "Kingfisher",
             ],
-            path: "NewsSnackSDK"
+            path: "VideoFeedSDK"
         )
     ]
 )

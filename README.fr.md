@@ -1,9 +1,9 @@
-# Librairie NewsSnack de Digiteka
+# Librairie VideoFeed de Digiteka
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](ReadMe.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](ReadMe.fr.md)
 
-La librairie NewsSnack de Digiteka fourni un composant interactif pour afficher des listes de contenus médias, organisés par catégories.
+La librairie VideoFeed de Digiteka fourni un composant interactif pour afficher des listes de contenus médias, organisés par catégories.
 
 # Installation
 
@@ -11,24 +11,24 @@ Ajouter la dépendance à votre projet avec l'une de ces solutions :
 
 ## CocoaPods
 
-Vous pouvez utiliser [CocoaPods](https://cocoapods.org/) pour installer `NewsSnackSDK` en ajoutant ce code à votre fichier `Podfile` :
+Vous pouvez utiliser [CocoaPods](https://cocoapods.org/) pour installer `VideoFeedSDK` en ajoutant ce code à votre fichier `Podfile` :
 
-`pod 'NewsSnackSDK', '~> 1.0.1'`
+`pod 'VideoFeedSDK', '~> 1.0.1'`
 
 ## Swift Package Manager
 
-Vous pouvez intégrer `NewsSnackSDK` en tant que package Swift en ajoutant l'URL suivante du repository public dans Xcode :
+Vous pouvez intégrer `VideoFeedSDK` en tant que package Swift en ajoutant l'URL suivante du repository public dans Xcode :
 
-`https://github.com/digiteka/newssnack-ios-build.git`
+`https://github.com/digiteka/videofeed-ios-build.git`
 
 # Utilisation
 
 Dans la méthode `application(_:, didFinishLaunchingWithOptions:)` de votre class `ApplicationDelegate`, ajoutez le code suivant pour initialiser la librairie :
 
 	do {
-		try NewsSnack.shared.initialize(config: DTKNSConfig(apiKey: "01472001"))
+		try VideoFeed.shared.initialize(config: DTKNSConfig(apiKey: "01472001"))
 	} catch {
-		print("Can't init NewsSnack with error \(error.localizedDescription)")
+		print("Can't init VideoFeed with error \(error.localizedDescription)")
 	}
 
 ## Logger
@@ -36,26 +36,26 @@ Dans la méthode `application(_:, didFinishLaunchingWithOptions:)` de votre clas
 Il est possible de définir un logger personnalisé pour récupérer les logs de la librairie. Le logger doit implémenter le protocol `DTKNSLoggerDelegate` :
 
 	extension AppDelegate: DTKNSLoggerDelegate {
-		func NewsSnackDebug(message: String) {
+		func VideoFeedDebug(message: String) {
 			print("debug " + message)
 		}
 		
-		func NewsSnackInfo(message: String) {
+		func VideoFeedInfo(message: String) {
 			print("info " + message)
 		}
 		
-		func NewsSnackWarn(message: String) {
+		func VideoFeedWarn(message: String) {
 			print("warn " + message)
 		}
 		
-		func NewsSnackError(message: String, error: Error?) {
+		func VideoFeedError(message: String, error: Error?) {
 			print("error " + message, error as Any)
 		}
 	}
 
 Puis passez le logger à la librairie :
 
-	NewsSnack.shared.setLoggerDelegate(self)
+	VideoFeed.shared.setLoggerDelegate(self)
 
 ## Tracking
 
@@ -69,15 +69,15 @@ Pour traquer les évènements provenant de la librairie, il est possible de pass
 
 Puis passez le tracker à la librairie :
 
-	NewsSnack.shared.setTrackingDelegate(self)
+	VideoFeed.shared.setTrackingDelegate(self)
 
-## Afficher le NewsSnack UIViewController
+## Afficher le VideoFeed UIViewController
 
-Le `NewsSnackSDK` fournis un UIViewController que vous pouvez utiliser comme vous le souhaitez.
+Le `VideoFeedSDK` fournis un UIViewController que vous pouvez utiliser comme vous le souhaitez.
 Dans l'exemple suivant, le UIViewController est présenté en tant que modale :
 
 	do {
-		let vc = try NewsSnack.shared.newsSnackViewController()
+		let vc = try VideoFeed.shared.videoFeedViewController()
 		present(vc, animated: true)
 	} catch {
 		print(error)
@@ -85,10 +85,10 @@ Dans l'exemple suivant, le UIViewController est présenté en tant que modale :
 
 ### Personnalisation de l'UI
 
-Par défaut, le NewsSnack UIViewController utilisera la configuration système.
-L'interface peut être personnalisée en passant une instance de `DTKNSUIConfig` au `NewsSnackSDK` :
+Par défaut, le VideoFeed UIViewController utilisera la configuration système.
+L'interface peut être personnalisée en passant une instance de `DTKNSUIConfig` au `VideoFeedSDK` :
 
-	let vc = try NewsSnack.shared.newsSnackViewController(
+	let vc = try VideoFeed.shared.videoFeedViewController(
         uiConfig: DTKNSUIConfig(
             titleFont: UIFont.boldSystemFont(ofSize: 42),
             descriptionFont: UIFont.italicSystemFont(ofSize: 12),
@@ -105,7 +105,7 @@ L'interface peut être personnalisée en passant une instance de `DTKNSUIConfig`
 |---------------|---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Configuration | DTKNS_CONF_1  | Critical | MDTK must not be null, empty or blank. Please provide a valid Api Key.                                                                     | mdtk nul ou vide                                                                                                                                  |  
 | Configuration | DTKNS_CONF_2  | Error    | No data were provided for your Api key (mdtk), please check your Api Key is valid, and you do provide data for it in the digiteka console. | Le tableau data est vide ou aucune zone ne contient de vidéo                                                                                      |  
-| Configuration | DTKNS_CONF_3  | Error    | NewsSnack sdk has not yet been initialized. Please call `NewsSnack.initialize` first.                                                      | NewSnack.shared.initialize ou NewsSnack.initialize n'ont pas encore été appelé                                                                    |  
+| Configuration | DTKNS_CONF_3  | Error    | VideoFeed sdk has not yet been initialized. Please call `VideoFeed.initialize` first.                                                      | VideoFeed.shared.initialize ou VideoFeed.initialize n'ont pas encore été appelé                                                                    |  
 | Configuration | DTKNS_CONF_4  | Warning  | No video available in zone                                                                                                                 | Aucune vidéo disponible dans la zone                                                                                                              |  
 | Network       |               | Info     | Network connection re-established                                                                                                          | La connexion au réseau a été \(r\)établie                                                                                                         |  
 | Network       | DTKNS_NET_1   | Warning  | Network connection lost.                                                                                                                   | La connexion au réseau a été perdue                                                                                                               |  
@@ -118,3 +118,9 @@ L'interface peut être personnalisée en passant une instance de `DTKNSUIConfig`
 # Application de démonstration
 
 Vous pouvez tester l'application de démonstration en utilisant le mdtk : `01472001`.
+
+# Build / Dev
+
+Afin de tester le framework, il faut d'abord cloner le repository 'videofeed-ios-build' au même niveau que ce repository puis executer le script build-local.sh.
+Ce script créera le .xcframework directement dans le dossier 'videofeed-ios-build'.
+Ensuite, il suffit d'ajouter la dépendance au projet de démo en mode 'Local' et de lancer l'application.

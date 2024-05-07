@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name             = 'NewsSnackSDK'
+    s.name             = 'VideoFeedSDK'
     s.version          = '1.0.0'
     s.summary          = 'This Pod allows you to display the Digiteka NewsSnack view'
     
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     s.requires_arc    = true
     s.static_framework = true
     
-    s.vendored_frameworks = "build/NewsSnackSDK.xcframework"
+    s.vendored_frameworks = "build/VideoFeedSDK.xcframework"
     s.dependency 'Kingfisher', '~> 7.9'
     
 end

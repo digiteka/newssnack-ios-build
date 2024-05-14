@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
     s.static_framework = true
     
     s.vendored_frameworks = "build/VideoFeedSDK.xcframework"
-    s.dependency 'Kingfisher', '~> 7.9'
+    s.dependency 'Kingfisher', '~> 7.11.0'
     
 end

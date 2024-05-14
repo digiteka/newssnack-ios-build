@@ -3360,3605 +3360,3605 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
       "kind": "BooleanLiteral",
       "offset": 318,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
       "kind": "Array",
       "offset": 814,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/ZoneEntity.swift",
       "kind": "StringLiteral",
       "offset": 119,
       "length": 10,
       "value": "\"VideoFeedSDK.ZoneEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 2564,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 2827,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 2849,
       "length": 6,
       "value": "\"Play\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 2960,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 2982,
       "length": 7,
       "value": "\"Pause\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 3104,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 3126,
       "length": 12,
       "value": "\"EmptyState\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSUIConfig.swift",
       "kind": "StringLiteral",
       "offset": 124,
       "length": 13,
       "value": "\"VideoFeedSDK.DTKNSUIConfig\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 759,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1137,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1489,
       "length": 4,
       "value": "0.06"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1502,
       "length": 4,
       "value": "0.07"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1514,
       "length": 4,
       "value": "0.08"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 1527,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1602,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1680,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1815,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 2223,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2273,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2649,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 3008,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 3859,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 3938,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 4009,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 4172,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 4225,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 4726,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 5703,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 5834,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 6492,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "Array",
       "offset": 6629,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 7814,
       "length": 29,
       "value": "\"Delegate should not be null\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 7951,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 7983,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8263,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8319,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8651,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 8707,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 9491,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 9770,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 9815,
       "length": 17,
       "value": "\"Already playing\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 9991,
       "length": 41,
       "value": "\"Playing video \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 10021,
       "length": 9,
       "value": "\"unknown\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 10031,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 10618,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 10655,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 10889,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11143,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11260,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11332,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11760,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 11783,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 12406,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 12440,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 12457,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 12494,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 12500,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 12863,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 13019,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 13159,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 13314,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 13454,
       "length": 4,
       "value": "0.75"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 13610,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 13750,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 13903,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 14137,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 14160,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 14358,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 14463,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 14706,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 15862,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 16009,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 16256,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 16310,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 16355,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 16888,
       "length": 44,
       "value": "\"Can't create URL from string \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 16931,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 17359,
       "length": 44,
       "value": "\"Can't create URL from string \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 17402,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 18260,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 18370,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 18583,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 19085,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 19105,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 19357,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 302,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 529,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Config\/DTKNSConfig.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Config\/DTKNSConfig.swift",
       "kind": "StringLiteral",
       "offset": 140,
       "length": 11,
       "value": "\"VideoFeedSDK.DTKNSConfig\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/CapsuleView.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/CapsuleView.swift",
       "kind": "IntegerLiteral",
       "offset": 360,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/PlacementDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/PlacementDTO.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 14,
       "value": "\"placement_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/PlacementDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/PlacementDTO.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 14,
       "value": "\"placement_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Tracking\/TrackingManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Tracking\/TrackingManager.swift",
       "kind": "IntegerLiteral",
       "offset": 263,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 318,
       "length": 18,
       "value": "\"video_background\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 365,
       "length": 15,
       "value": "\"primary_color\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 411,
       "length": 16,
       "value": "\"secondar_color\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 318,
       "length": 18,
       "value": "\"video_background\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 365,
       "length": 15,
       "value": "\"primary_color\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/RenderDTO.swift",
       "kind": "StringLiteral",
       "offset": 411,
       "length": 16,
       "value": "\"secondar_color\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/VideoEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/VideoEntity.swift",
       "kind": "StringLiteral",
       "offset": 120,
       "length": 11,
       "value": "\"VideoFeedSDK.VideoEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/RenderEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/RenderEntity.swift",
       "kind": "StringLiteral",
       "offset": 134,
       "length": 12,
       "value": "\"VideoFeedSDK.RenderEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 548,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 674,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 1064,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 1785,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 1841,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 1896,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "FloatLiteral",
       "offset": 1956,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UITapGestureRecognizer+DidTapAttributedTextInLabel.swift",
       "kind": "Dictionary",
       "offset": 2727,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/ColorEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/ColorEntity.swift",
       "kind": "StringLiteral",
       "offset": 115,
       "length": 11,
       "value": "\"VideoFeedSDK.ColorEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/String+Localize.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/String+Localize.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 28,
       "value": "\"_____String not found_____\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/String+Localize.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/String+Localize.swift",
       "kind": "StringLiteral",
       "offset": 353,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/String+Localize.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/String+Localize.swift",
       "kind": "StringLiteral",
       "offset": 435,
       "length": 39,
       "value": "\"No localization found for key \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/String+Localize.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/String+Localize.swift",
       "kind": "StringLiteral",
       "offset": 473,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1279,
       "length": 14,
       "value": "\"DTKNS_CONF_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1304,
       "length": 14,
       "value": "\"Invalid MDTK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1333,
       "length": 72,
       "value": "\"MDTK must not be null, empty or blank. Please provide a valid Api Key.\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1465,
       "length": 14,
       "value": "\"DTKNS_CONF_2\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1490,
       "length": 9,
       "value": "\"No data\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1514,
       "length": 140,
       "value": "\"No data were provided for your Api key (mdtk), please check your Api Key is valid, and you do provide data for it in the digiteka console.\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1673,
       "length": 30,
       "value": "\"dtkns_conf_2.userDescription\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1780,
       "length": 14,
       "value": "\"DTKNS_CONF_3\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1805,
       "length": 31,
       "value": "\"VideoFeed not yet initialized\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 1851,
       "length": 91,
       "value": "\"VideoFeed SDK has not yet been initialized. Please call VideoFeed.shared.initialize first\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2019,
       "length": 14,
       "value": "\"DTKNS_CONF_4\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2044,
       "length": 18,
       "value": "\"No video in zone\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2077,
       "length": 36,
       "value": "\"No video available in zone \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2112,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2205,
       "length": 18,
       "value": "\"DTKNS_INTERNAL_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2234,
       "length": 16,
       "value": "\"Internal error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2265,
       "length": 32,
       "value": "\"Internal error: \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2296,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2394,
       "length": 14,
       "value": "\"DTKNS_DATA_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2419,
       "length": 22,
       "value": "\"Data integrity error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2456,
       "length": 38,
       "value": "\"Data integrity error: \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2493,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2582,
       "length": 13,
       "value": "\"DTKNS_NET_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2606,
       "length": 25,
       "value": "\"Network connection lost\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2646,
       "length": 26,
       "value": "\"Network connection lost.\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2691,
       "length": 29,
       "value": "\"dtkns_net_1.userDescription\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2811,
       "length": 13,
       "value": "\"DTKNS_NET_2\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2835,
       "length": 32,
       "value": "\"Network connection unavailable\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2882,
       "length": 33,
       "value": "\"Network connection unavailable.\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 2934,
       "length": 29,
       "value": "\"dtkns_net_2.userDescription\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 3067,
       "length": 13,
       "value": "\"DTKNS_SDK_1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 3091,
       "length": 23,
       "value": "\"URL conversion failed\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 3129,
       "length": 38,
       "value": "\"Can't convert URL from string \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/DTKNSError.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/DTKNSError.swift",
       "kind": "StringLiteral",
       "offset": 3166,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 201,
       "length": 28,
       "value": "\"https:\/\/trck.digiteka.com\/\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 430,
       "length": 36,
       "value": "\"[TRACKING] tracking event \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 465,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 553,
       "length": 48,
       "value": "\"[TRACKING] Can't create URL for event \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 600,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 742,
       "length": 32,
       "value": "\"[TRACKING] tracking url \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 773,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 923,
       "length": 18,
       "value": "\"[TRACKING] Error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1081,
       "length": 35,
       "value": "\"[TRACKING] tracked event \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1115,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1434,
       "length": 6,
       "value": "\"open\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1481,
       "length": 7,
       "value": "\"vfcls\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1534,
       "length": 7,
       "value": "\"r2ply\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1587,
       "length": 7,
       "value": "\"trgrd\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1643,
       "length": 7,
       "value": "\"vdvwd\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1733,
       "length": 17,
       "value": "\"vd\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1747,
       "length": 2,
       "value": "\"qt\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1801,
       "length": 7,
       "value": "\"vdcpt\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 1860,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2008,
       "length": 4,
       "value": "\"vp\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2049,
       "length": 3,
       "value": "\"v\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2254,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2520,
       "length": 6,
       "value": "\"mdtk\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2573,
       "length": 3,
       "value": "\"e\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "BooleanLiteral",
       "offset": 2740,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2838,
       "length": 5,
       "value": "\"dif\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "BooleanLiteral",
       "offset": 3205,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3549,
       "length": 5,
       "value": "\"vfo\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3563,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "BooleanLiteral",
       "offset": 4303,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4646,
       "length": 5,
       "value": "\"vfo\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 4660,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "BooleanLiteral",
       "offset": 5031,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 5374,
       "length": 5,
       "value": "\"vfo\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 5388,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 5469,
       "length": 5,
       "value": "\"sec\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 5483,
       "length": 13,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 5495,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "BooleanLiteral",
       "offset": 5852,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 6195,
       "length": 5,
       "value": "\"vfo\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 6209,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 6290,
       "length": 5,
       "value": "\"pct\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 6304,
       "length": 12,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 6315,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "BooleanLiteral",
       "offset": 6672,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7015,
       "length": 5,
       "value": "\"vfo\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7029,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7496,
       "length": 5,
       "value": "\"dif\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7569,
       "length": 4,
       "value": "\"cl\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7582,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7618,
       "length": 3,
       "value": "\"v\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7638,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7674,
       "length": 3,
       "value": "\"z\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7694,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7730,
       "length": 4,
       "value": "\"tp\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7743,
       "length": 3,
       "value": "\"2\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7780,
       "length": 5,
       "value": "\"adt\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7808,
       "length": 3,
       "value": "\"0\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7814,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7851,
       "length": 4,
       "value": "\"zm\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7864,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7900,
       "length": 5,
       "value": "\"env\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7914,
       "length": 5,
       "value": "\"app\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 7953,
       "length": 4,
       "value": "\"nw\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8035,
       "length": 5,
       "value": "\"nws\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8119,
       "length": 4,
       "value": "\"iv\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8132,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8169,
       "length": 5,
       "value": "\"vol\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8183,
       "length": 29,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8211,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8246,
       "length": 5,
       "value": "\"trg\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8260,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8297,
       "length": 4,
       "value": "\"fs\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8310,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8347,
       "length": 4,
       "value": "\"pm\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8360,
       "length": 3,
       "value": "\"0\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8475,
       "length": 5,
       "value": "\"cat\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8611,
       "length": 3,
       "value": "\"o\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8737,
       "length": 4,
       "value": "\"pl\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/TrackingRestManager.swift",
       "kind": "StringLiteral",
       "offset": 8864,
       "length": 4,
       "value": "\"vl\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
       "kind": "StringLiteral",
       "offset": 682,
       "length": 13,
       "value": "\"cust_params\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
       "kind": "StringLiteral",
       "offset": 774,
       "length": 23,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
       "kind": "StringLiteral",
       "offset": 784,
       "length": 1,
       "value": "\"=\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
       "kind": "StringLiteral",
       "offset": 796,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
       "kind": "StringLiteral",
       "offset": 839,
       "length": 3,
       "value": "\"&\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
       "kind": "StringLiteral",
       "offset": 1138,
       "length": 48,
       "value": "\"Replaced tag params in ad vastTag: \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/AdDTO.swift",
       "kind": "StringLiteral",
       "offset": 1185,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 332,
       "length": 4,
       "value": "\"2g\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 353,
       "length": 4,
       "value": "\"3g\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 374,
       "length": 4,
       "value": "\"4g\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 332,
       "length": 4,
       "value": "\"2g\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 353,
       "length": 4,
       "value": "\"3g\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 374,
       "length": 4,
       "value": "\"4g\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "BooleanLiteral",
       "offset": 769,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 1271,
       "length": 16,
       "value": "\"NetworkMonitor\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/NetworkMonitor.swift",
       "kind": "StringLiteral",
       "offset": 1586,
       "length": 16,
       "value": "\"www.google.com\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 14,
       "value": "\"VideoFeedSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 8,
       "value": "\"Logger\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 752,
       "length": 30,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 781,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 983,
       "length": 14,
       "value": "\"VideoFeedSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1009,
       "length": 8,
       "value": "\"Logger\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1056,
       "length": 30,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1085,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1287,
       "length": 14,
       "value": "\"VideoFeedSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1313,
       "length": 8,
       "value": "\"Logger\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1361,
       "length": 30,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1390,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1608,
       "length": 14,
       "value": "\"VideoFeedSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1634,
       "length": 8,
       "value": "\"Logger\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1682,
       "length": 30,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/DTKNSLoggerDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1711,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 708,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 781,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 915,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1121,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "Array",
       "offset": 1295,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1336,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "Array",
       "offset": 1449,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 2493,
       "length": 13,
       "value": "\"empty_state\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 4693,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 4748,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 4915,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 4997,
       "length": 7,
       "value": "\"retry\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5194,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 5453,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 5458,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 5631,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 5658,
       "length": 15,
       "value": "\"unknown_error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 5765,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5848,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 6070,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 6191,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 6270,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 6545,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 6572,
       "length": 9,
       "value": "\"no_data\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "StringLiteral",
       "offset": 6669,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 6748,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 6883,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 6938,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 7682,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 7688,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "Array",
       "offset": 8456,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 8664,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 8702,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 8877,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 9285,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 9326,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 9604,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 9856,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 10828,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 10870,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 11005,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 11358,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 11534,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 13418,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13939,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/VideoFeedViewController\/VideoFeedViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14181,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ResponseDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ResponseDTO.swift",
       "kind": "StringLiteral",
       "offset": 442,
       "length": 21,
       "value": "\"nb_videos_before_ad\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ResponseDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ResponseDTO.swift",
       "kind": "StringLiteral",
       "offset": 442,
       "length": 21,
       "value": "\"nb_videos_before_ad\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/AdEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/AdEntity.swift",
       "kind": "StringLiteral",
       "offset": 120,
       "length": 8,
       "value": "\"VideoFeedSDK.AdEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 510,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 573,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1101,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Array",
       "offset": 1260,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Array",
       "offset": 1344,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Dictionary",
       "offset": 1559,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1598,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1700,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 1793,
       "length": 28,
       "value": "\"Current row: \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 1820,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2568,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1737,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3302,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 3648,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3784,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4673,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4685,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "FloatLiteral",
       "offset": 4908,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "FloatLiteral",
       "offset": 5064,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5186,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Array",
       "offset": 5381,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Array",
       "offset": 6043,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 6415,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "Dictionary",
       "offset": 6785,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 8284,
       "length": 84,
       "value": "\"Fail to dequeue reusable cell with identifier \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 8367,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 9498,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 9854,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 12039,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 12058,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 12091,
       "length": 55,
       "value": "\"[PLACEMENT] calcCurrentRow \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 12132,
       "length": 2,
       "value": "\" <- \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 12145,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 12868,
       "length": 62,
       "value": "\"Video failed to play with error \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 12929,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 12978,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 13141,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 13219,
       "length": 7,
       "value": "\"retry\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 13344,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 13451,
       "length": 44,
       "value": "\"Should store player for videoId \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "StringLiteral",
       "offset": 13494,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13735,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13826,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13838,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 13862,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/ZoneViewController.swift",
       "kind": "FloatLiteral",
       "offset": 13929,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 35,
       "value": "\"VideoDTO does not have id \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 754,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 862,
       "length": 38,
       "value": "\"VideoDTO does not have title \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 899,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1019,
       "length": 44,
       "value": "\"VideoDTO does not have description \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1062,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1170,
       "length": 38,
       "value": "\"VideoDTO does not have image \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1207,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1331,
       "length": 37,
       "value": "\"Can't create URL for image \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1367,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1471,
       "length": 40,
       "value": "\"VideoDTO does not have hls URL \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1510,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1632,
       "length": 33,
       "value": "\"Can't create URL for hls \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1664,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1770,
       "length": 37,
       "value": "\"VideoDTO does not have vuid \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1806,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1918,
       "length": 40,
       "value": "\"VideoDTO does not have catalog \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 1957,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "Array",
       "offset": 2227,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/VideoDTO.swift",
       "kind": "StringLiteral",
       "offset": 2289,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/PlacementEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/PlacementEntity.swift",
       "kind": "StringLiteral",
       "offset": 124,
       "length": 15,
       "value": "\"VideoFeedSDK.PlacementEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 8,
       "value": "\"[💬]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 10,
       "value": "\"[ℹ️]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 263,
       "length": 10,
       "value": "\"[⚠️]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 306,
       "length": 8,
       "value": "\"[🔥]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 8,
       "value": "\"[💣]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 8,
       "value": "\"[💬]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 10,
       "value": "\"[ℹ️]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 263,
       "length": 10,
       "value": "\"[⚠️]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 306,
       "length": 8,
       "value": "\"[🔥]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 8,
       "value": "\"[💣]\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "BooleanLiteral",
       "offset": 552,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1948,
       "length": 25,
       "value": "\"yyyy-MM-dd hh:mm:ss.SSS\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2378,
       "length": 120,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2399,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2420,
       "length": 1,
       "value": "\"[\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2454,
       "length": 1,
       "value": "\": \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2467,
       "length": 1,
       "value": "\" (\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2476,
       "length": 1,
       "value": "\")] \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2491,
       "length": 5,
       "value": "\"NIL\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2497,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2792,
       "length": 3,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2833,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2880,
       "length": 8,
       "value": "\".swift\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2896,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Logger\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2903,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 3,
       "value": "\"#\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 339,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 479,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 571,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 677,
       "length": 10,
       "value": "0xff000000"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 692,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 698,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 743,
       "length": 10,
       "value": "0x00ff0000"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 758,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 764,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 809,
       "length": 10,
       "value": "0x0000ff00"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 824,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 829,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 873,
       "length": 10,
       "value": "0x000000ff"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 887,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1044,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1136,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1242,
       "length": 8,
       "value": "0xff0000"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1255,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1261,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1306,
       "length": 8,
       "value": "0x00ff00"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1319,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1324,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1368,
       "length": 8,
       "value": "0x0000ff"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1380,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIColor+FromHex.swift",
       "kind": "IntegerLiteral",
       "offset": 1461,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/Double+Round.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/Double+Round.swift",
       "kind": "FloatLiteral",
       "offset": 203,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "BooleanLiteral",
       "offset": 389,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "BooleanLiteral",
       "offset": 485,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "FloatLiteral",
       "offset": 645,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "FloatLiteral",
       "offset": 860,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "FloatLiteral",
       "offset": 1026,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "FloatLiteral",
       "offset": 1196,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "IntegerLiteral",
       "offset": 1258,
       "length": 3,
       "value": "-10"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "BooleanLiteral",
       "offset": 1302,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIView+Subview.swift",
       "kind": "BooleanLiteral",
       "offset": 1332,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 336,
       "length": 31,
       "value": "\"https:\/\/www.ultimedia.com\/api\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 790,
       "length": 144,
       "value": "\"[HTTP] response for URL request [\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 848,
       "length": 5,
       "value": "\"NIL\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 854,
       "length": 1,
       "value": "\"] \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 889,
       "length": 5,
       "value": "\"nil\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 895,
       "length": 1,
       "value": "\" - ERROR: \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 933,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 974,
       "length": 50,
       "value": "\"[HTTP] response :\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 1023,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2375,
       "length": 169,
       "value": "\"[HTTP] response for URL request [\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2433,
       "length": 5,
       "value": "\"NIL\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2439,
       "length": 1,
       "value": "\"] \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2474,
       "length": 5,
       "value": "\"nil\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2480,
       "length": 1,
       "value": "\" - \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2514,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2543,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "IntegerLiteral",
       "offset": 2855,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 2927,
       "length": 82,
       "value": "\"API error - \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3008,
       "length": 9,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3297,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3323,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3297,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3323,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3530,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 3570,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "Array",
       "offset": 3781,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4069,
       "length": 92,
       "value": "\"[HTTP] [\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4096,
       "length": 1,
       "value": "\"] \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4108,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4126,
       "length": 28,
       "value": "\" - params \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "Dictionary",
       "offset": 4149,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4153,
       "length": 5,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4157,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4160,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
       "offset": 4469,
       "length": 6,
       "value": "\"mdtk\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 427,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 11,
       "value": "\"zone_name\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 14,
       "value": "\"widget_title\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 575,
       "length": 10,
       "value": "\"owner_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 12,
       "value": "\"search_key\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 427,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 11,
       "value": "\"zone_name\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 14,
       "value": "\"widget_title\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 575,
       "length": 10,
       "value": "\"owner_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 12,
       "value": "\"search_key\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "Array",
       "offset": 735,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 756,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
       "offset": 1152,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "StringLiteral",
       "offset": 335,
       "length": 47,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "StringLiteral",
       "offset": 358,
       "length": 1,
       "value": "\"\/search\/videolistzones\/\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "Array",
       "offset": 1354,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1407,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1760,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "IntegerLiteral",
       "offset": 2041,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "StringLiteral",
       "offset": 2916,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/ZoneRestManager.swift",
       "kind": "StringLiteral",
       "offset": 3010,
       "length": 12,
       "value": "\"search_key\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Core\/Rest\/Entities\/DecorationEntity.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/Entities\/DecorationEntity.swift",
       "kind": "StringLiteral",
       "offset": 125,
       "length": 16,
       "value": "\"VideoFeedSDK.DecorationEntity\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/AudioMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/AudioMonitor.swift",
       "kind": "BooleanLiteral",
       "offset": 381,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Utils\/AudioMonitor.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Utils\/AudioMonitor.swift",
       "kind": "IntegerLiteral",
       "offset": 488,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 566,
       "length": 26,
       "value": "\"Got \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 585,
       "length": 5,
       "value": "\" zones\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 664,
       "length": 62,
       "value": "\"Zone \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 680,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 693,
       "length": 3,
       "value": "\" has \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/ViewModel\/ZonesEntityViewModel.swift",
       "kind": "StringLiteral",
       "offset": 718,
       "length": 6,
       "value": "\" videos\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/BundleIdentifier.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/BundleIdentifier.swift",
       "kind": "StringLiteral",
       "offset": 410,
       "length": 28,
       "value": "\"com.beapp.dtk.NewsSnackSDK\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/BundleIdentifier.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/BundleIdentifier.swift",
       "kind": "StringLiteral",
       "offset": 566,
       "length": 59,
       "value": "\"unable to find bundle with identifier \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/BundleIdentifier.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/BundleIdentifier.swift",
       "kind": "StringLiteral",
       "offset": 624,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "StringLiteral",
       "offset": 325,
       "length": 115,
       "value": "\"https?:\\\/\\\/(?:www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b(?:[-a-zA-Z0-9()@:%_\\+.~#?&\\\/=]*)\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "StringLiteral",
       "offset": 483,
       "length": 32,
       "value": "\"Can't create regex from string\""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "IntegerLiteral",
       "offset": 624,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "StringLiteral",
       "offset": 834,
       "length": 46,
       "value": "\"Can't get range from NSRange \""
     },
     {
-      "filePath": "\/Users\/vagrant\/git\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/NSMutableAttributedString+AutoAddLinkAttribute.swift",
       "kind": "StringLiteral",
       "offset": 879,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/vagrant\/Library\/Developer\/Xcode\/DerivedData\/VideoFeedSDK-auqxbfpfirpfnjajinmqixpnxfzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VideoFeedSDK\/IntermediateBuildFilesPath\/VideoFeedSDK.build\/Release-iphoneos\/VideoFeedSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/cederache\/Library\/Developer\/Xcode\/DerivedData\/VideoFeedSDK-fizwbdkiedpenvhcwrgwzrpcswjm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VideoFeedSDK\/IntermediateBuildFilesPath\/VideoFeedSDK.build\/Release-iphoneos\/VideoFeedSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 733,
       "length": 12,
       "value": "\"EmptyState\""
     },
     {
-      "filePath": "\/Users\/vagrant\/Library\/Developer\/Xcode\/DerivedData\/VideoFeedSDK-auqxbfpfirpfnjajinmqixpnxfzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VideoFeedSDK\/IntermediateBuildFilesPath\/VideoFeedSDK.build\/Release-iphoneos\/VideoFeedSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/cederache\/Library\/Developer\/Xcode\/DerivedData\/VideoFeedSDK-fizwbdkiedpenvhcwrgwzrpcswjm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VideoFeedSDK\/IntermediateBuildFilesPath\/VideoFeedSDK.build\/Release-iphoneos\/VideoFeedSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 865,
       "length": 7,
       "value": "\"Pause\""
     },
     {
-      "filePath": "\/Users\/vagrant\/Library\/Developer\/Xcode\/DerivedData\/VideoFeedSDK-auqxbfpfirpfnjajinmqixpnxfzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VideoFeedSDK\/IntermediateBuildFilesPath\/VideoFeedSDK.build\/Release-iphoneos\/VideoFeedSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/cederache\/Library\/Developer\/Xcode\/DerivedData\/VideoFeedSDK-fizwbdkiedpenvhcwrgwzrpcswjm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VideoFeedSDK\/IntermediateBuildFilesPath\/VideoFeedSDK.build\/Release-iphoneos\/VideoFeedSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 990,
       "length": 6,

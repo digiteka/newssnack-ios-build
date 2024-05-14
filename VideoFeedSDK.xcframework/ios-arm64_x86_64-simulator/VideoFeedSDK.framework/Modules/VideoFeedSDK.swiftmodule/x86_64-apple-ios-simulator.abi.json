@@ -851,13 +851,6 @@
       },
       {
         "kind": "Import",
-        "name": "Kingfisher",
-        "printedName": "Kingfisher",
-        "declKind": "Import",
-        "moduleName": "VideoFeedSDK"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2905,6 +2898,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VideoFeedSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -3439,539 +3442,539 @@
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 759,
+      "offset": 741,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1137,
+      "offset": 1119,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1489,
+      "offset": 1471,
       "length": 4,
       "value": "0.06"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1502,
+      "offset": 1484,
       "length": 4,
       "value": "0.07"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1514,
+      "offset": 1496,
       "length": 4,
       "value": "0.08"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1527,
+      "offset": 1509,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1602,
+      "offset": 1584,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1680,
+      "offset": 1662,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1815,
+      "offset": 1797,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 2223,
+      "offset": 2205,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2273,
+      "offset": 2255,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2649,
+      "offset": 2631,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 3008,
+      "offset": 2990,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 3859,
+      "offset": 3841,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 3938,
+      "offset": 3920,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 4009,
+      "offset": 3991,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 4172,
+      "offset": 4154,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4225,
+      "offset": 4207,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 4726,
+      "offset": 4708,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 5703,
+      "offset": 5685,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 5834,
+      "offset": 5816,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 6492,
+      "offset": 6471,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "Array",
-      "offset": 6629,
+      "offset": 6608,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 7814,
+      "offset": 7793,
       "length": 29,
       "value": "\"Delegate should not be null\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7951,
+      "offset": 7930,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7983,
+      "offset": 7962,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 8263,
+      "offset": 8242,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 8319,
+      "offset": 8298,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 8651,
+      "offset": 8630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 8707,
+      "offset": 8686,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 9491,
+      "offset": 9470,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 9770,
+      "offset": 9749,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 9815,
+      "offset": 9794,
       "length": 17,
       "value": "\"Already playing\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 9991,
+      "offset": 9970,
       "length": 41,
       "value": "\"Playing video \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 10021,
+      "offset": 10000,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 10031,
+      "offset": 10010,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10618,
+      "offset": 10597,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10655,
+      "offset": 10634,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10889,
+      "offset": 10868,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 11143,
+      "offset": 11122,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 11260,
+      "offset": 11239,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 11332,
+      "offset": 11311,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 11760,
+      "offset": 11739,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 11783,
+      "offset": 11762,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 12406,
+      "offset": 12385,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 12440,
+      "offset": 12419,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 12457,
+      "offset": 12436,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 12494,
+      "offset": 12473,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 12500,
+      "offset": 12479,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 12863,
+      "offset": 12842,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 13019,
+      "offset": 12998,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 13159,
+      "offset": 13138,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 13314,
+      "offset": 13293,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 13454,
+      "offset": 13433,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 13610,
+      "offset": 13589,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 13750,
+      "offset": 13729,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 13903,
+      "offset": 13882,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 14137,
+      "offset": 14116,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 14160,
+      "offset": 14139,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 14358,
+      "offset": 14337,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 14463,
+      "offset": 14442,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 14706,
+      "offset": 14685,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 15862,
+      "offset": 15841,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 16009,
+      "offset": 15988,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 16256,
+      "offset": 16235,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 16310,
+      "offset": 16289,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 16355,
+      "offset": 16334,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 16888,
+      "offset": 16867,
       "length": 44,
       "value": "\"Can't create URL from string \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 16931,
+      "offset": 16910,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 17359,
+      "offset": 17338,
       "length": 44,
       "value": "\"Can't create URL from string \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 17402,
+      "offset": 17381,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 18260,
+      "offset": 18239,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 18370,
+      "offset": 18349,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 18583,
+      "offset": 18562,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 19085,
+      "offset": 19064,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 19105,
+      "offset": 19084,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/UI\/ZoneViewController\/VideoCollectionViewCell\/VideoCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 19357,
+      "offset": 19336,
       "length": 4,
       "value": "true"
     },
@@ -6361,6 +6364,20 @@
       "offset": 1461,
       "length": 1,
       "value": "1"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIImage+DownloadFromUrl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 445,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/UIImage+DownloadFromUrl.swift",
+      "kind": "StringLiteral",
+      "offset": 520,
+      "length": 7,
+      "value": "\"image\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Extensions\/Double+Round.swift",

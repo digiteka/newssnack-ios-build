@@ -11,9 +11,7 @@ let package = Package(
             targets: ["VideoFeedSDK"]
         )
     ],
-    dependencies: [
-        .package(url: "https://github.com/onevcat/Kingfisher.git", from: "7.9.0"),
-    ],
+    dependencies: [],
     targets: [
         .binaryTarget(
             name: "VideoFeedXCFramework",
@@ -23,7 +21,6 @@ let package = Package(
             name: "VideoFeedSDK",
             dependencies: [
                 .target(name: "VideoFeedXCFramework"),
-                "Kingfisher",
             ],
             path: "VideoFeedSDK"
         )

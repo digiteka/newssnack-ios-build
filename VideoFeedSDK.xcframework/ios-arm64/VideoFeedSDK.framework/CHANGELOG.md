@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.5 / 0] - 2024-06-19
+* fix: remove unused parameter in ZoneDTO + handle nullable to return nil zone
+* fix: improve DataIntegrityError
+
 ## [1.0.2 / 0] - 2024-02-01
 * fix: focus on selected zone
 * fix: remove zone name capitalization

@@ -6515,273 +6515,336 @@
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2375,
+      "offset": 1790,
+      "length": 41,
+      "value": "\"Error while decoding response: \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1830,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2463,
       "length": 169,
       "value": "\"[HTTP] response for URL request [\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2433,
+      "offset": 2521,
       "length": 5,
       "value": "\"NIL\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2439,
+      "offset": 2527,
       "length": 1,
       "value": "\"] \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2474,
+      "offset": 2562,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2480,
+      "offset": 2568,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2514,
+      "offset": 2602,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2543,
+      "offset": 2631,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2855,
+      "offset": 2943,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 2927,
+      "offset": 3015,
       "length": 82,
       "value": "\"API error - \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 3008,
+      "offset": 3096,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 3297,
+      "offset": 3385,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 3323,
+      "offset": 3411,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 3297,
+      "offset": 3385,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 3323,
+      "offset": 3411,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 3530,
+      "offset": 3618,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 3570,
+      "offset": 3658,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "Array",
-      "offset": 3781,
+      "offset": 3869,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 4069,
+      "offset": 4055,
+      "length": 41,
+      "value": "\"Error while decoding response: \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4095,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4237,
       "length": 92,
       "value": "\"[HTTP] [\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 4096,
+      "offset": 4264,
       "length": 1,
       "value": "\"] \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 4108,
+      "offset": 4276,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 4126,
+      "offset": 4294,
       "length": 28,
       "value": "\" - params \""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "Dictionary",
-      "offset": 4149,
+      "offset": 4317,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 4153,
+      "offset": 4321,
       "length": 5,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 4157,
+      "offset": 4325,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 4160,
+      "offset": 4328,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/API\/RestManager.swift",
       "kind": "StringLiteral",
-      "offset": 4469,
+      "offset": 4637,
       "length": 6,
       "value": "\"mdtk\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 427,
+      "offset": 381,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 457,
+      "offset": 411,
       "length": 11,
       "value": "\"zone_name\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 514,
-      "length": 14,
-      "value": "\"widget_title\""
-    },
-    {
-      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
-      "kind": "StringLiteral",
-      "offset": 575,
+      "offset": 469,
       "length": 10,
       "value": "\"owner_id\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 611,
+      "offset": 505,
       "length": 12,
       "value": "\"search_key\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 427,
+      "offset": 381,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 457,
+      "offset": 411,
       "length": 11,
       "value": "\"zone_name\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 514,
-      "length": 14,
-      "value": "\"widget_title\""
-    },
-    {
-      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
-      "kind": "StringLiteral",
-      "offset": 575,
+      "offset": 469,
       "length": 10,
       "value": "\"owner_id\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 611,
+      "offset": 505,
       "length": 12,
       "value": "\"search_key\""
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "Array",
-      "offset": 735,
+      "offset": 629,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "IntegerLiteral",
-      "offset": 756,
+      "offset": 650,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 674,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
       "kind": "StringLiteral",
-      "offset": 1152,
+      "offset": 904,
+      "length": 34,
+      "value": "\"ZoneDTO does not have id \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 937,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1043,
+      "length": 36,
+      "value": "\"ZoneDTO does not have name \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1078,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1194,
+      "length": 41,
+      "value": "\"ZoneDTO does not have searchKey \""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1234,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/cederache\/Repos\/newssnack-ios\/VideoFeedSDK\/Core\/Rest\/DTO\/ZoneDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1487,
       "length": 2,
       "value": "\"\""
     },

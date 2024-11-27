@@ -9,12 +9,6 @@ Digiteka News Snack library provides an interactive view to display lists of med
 
 Simply add the dependency to your project using one of this solution:
 
-## CocoaPods
-
-You can use [CocoaPods](https://cocoapods.org/) to install `VideoFeedSDK` by adding it to your `Podfile`:
-
-`pod 'VideoFeedSDK', '~> 1.0.1'`
-
 ## Swift Package Manager
 
 You can integrate `VideoFeedSDK` as a Swift package by adding the following URL to the public package repository that you can add in Xcode:
@@ -118,9 +112,3 @@ The UI can be customized by passing a `DTKNSUIConfig` instance to the `VideoFeed
 # Sample app
 
 You can test the Sample app using the mdtk : `01472001`.
-
-# Build / Dev
-
-To test the framework, you must first clone the 'videofeed-ios-build' repository at the same level as this repository then run the build-local.sh script.
-This script will create the .xcframework directly in the 'videofeed-ios-build' folder.
-Then, simply add the dependency to the demo project in 'Local' mode and launch the application.

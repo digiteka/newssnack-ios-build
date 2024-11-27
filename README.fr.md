@@ -9,12 +9,6 @@ La librairie VideoFeed de Digiteka fourni un composant interactif pour afficher 
 
 Ajouter la dépendance à votre projet avec l'une de ces solutions :
 
-## CocoaPods
-
-Vous pouvez utiliser [CocoaPods](https://cocoapods.org/) pour installer `VideoFeedSDK` en ajoutant ce code à votre fichier `Podfile` :
-
-`pod 'VideoFeedSDK', '~> 1.0.1'`
-
 ## Swift Package Manager
 
 Vous pouvez intégrer `VideoFeedSDK` en tant que package Swift en ajoutant l'URL suivante du repository public dans Xcode :
@@ -118,9 +112,3 @@ L'interface peut être personnalisée en passant une instance de `DTKNSUIConfig`
 # Application de démonstration
 
 Vous pouvez tester l'application de démonstration en utilisant le mdtk : `01472001`.
-
-# Build / Dev
-
-Afin de tester le framework, il faut d'abord cloner le repository 'videofeed-ios-build' au même niveau que ce repository puis executer le script build-local.sh.
-Ce script créera le .xcframework directement dans le dossier 'videofeed-ios-build'.
-Ensuite, il suffit d'ajouter la dépendance au projet de démo en mode 'Local' et de lancer l'application.
